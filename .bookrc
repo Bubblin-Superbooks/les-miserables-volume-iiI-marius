@@ -6,5 +6,6 @@
     "HEAD": "html"
   },
   "name": "Les Misérables Volume III - Marius",
-  "type": "text"
+  "type": "text",
+  "book_id": 480
 }
